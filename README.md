@@ -5,7 +5,7 @@ This repo consists of almost all the resources related to Fairness, Accountabili
 
 ## Table of Contents:
 - [Papers](#papers)
-- [People (involved in research in this field)](#people-involved-in-research-in-this-field)
+- [People (involved in research in this field)](#people-involved-in-research-in-acm-fat)
 - [Datasets](#datasets)
 - [Code Repositories & Implementation details](#code-repositories--implementation-details)
 - [Misc. resources](#miscellaneous-resources)
