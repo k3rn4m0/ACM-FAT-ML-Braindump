@@ -12,11 +12,11 @@ All the resources related to Fairness, Accountability &amp; Transparency in the 
 ## Papers:
 
 
-## People:
+## People (involved in research in this field):
 
 ## Datasets:
 
-## Code:
+## Code Repositories & Implementation details:
 
 ## Miscellaneous resources:
 
