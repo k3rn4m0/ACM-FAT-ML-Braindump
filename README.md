@@ -91,5 +91,12 @@ These consist of a list of repositories that were tested out on a dev box
 ## Miscellaneous resources:
 Links to related courses & articles.
 
+- ### Courses:
+  - []()
+  - []()
+  
+- ### Articles:
+  - [Millions of african americans people affected by racial bias in health-care algorithms]()https://www.nature.com/articles/d41586-019-03228-6
+  - []()
 
 
