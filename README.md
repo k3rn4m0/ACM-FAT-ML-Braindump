@@ -92,11 +92,14 @@ These consist of a list of repositories that were tested out on a dev box
 Links to related courses & articles.
 
 - ### Courses:
-  - []()
-  - []()
+  - [A 70-minute course on evaluating fairness of Machine learning Algortihms](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture?_ga=2.101894599.-71412336.1571664970)
+  - [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
   
 - ### Articles:
-  - [Millions of african americans people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
+  - [Millions of african-americans affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
   - []()
+  
+- ### Books
+  - [Fairness and machine learning](https://fairmlbook.org/)
 
 
