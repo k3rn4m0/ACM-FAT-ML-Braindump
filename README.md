@@ -4,10 +4,10 @@ All the resources related to Fairness, Accountability &amp; Transparency in the 
 
 ## Table of Contents:
 - [Papers](#Papers)
-- [People (involved in research in this field)]((#People)
-- [Datasets](#Datasets)
-- [Code Repositories & Implementation details](#Code)
-- [Misc. resources](#Miscellaneous)
+- [People (involved in research in this field)](#people-involved-in-research-in-this-field)
+- [Datasets](#datasets)
+- [Code Repositories & Implementation details](#code-repositories--implementation-details)
+- [Misc. resources](#miscellaneous-resources)
 
 ## Papers:
 
