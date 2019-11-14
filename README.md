@@ -96,7 +96,7 @@ Links to related courses & articles.
   - []()
   
 - ### Articles:
-  - [Millions of african americans people affected by racial bias in health-care algorithms]()https://www.nature.com/articles/d41586-019-03228-6
+  - [Millions of african americans people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
   - []()
 
 
