@@ -12,6 +12,8 @@ All the resources related to Fairness, Accountability &amp; Transparency in the 
 
 
 ## Papers:
+Below are a list of research papers that were finalized based on the number of citations references on the FAT ML topic.
+
 - [Algorithmic bias: from discrimination discovery to fairness-aware data mining]()
 - [Discovering Unwarranted Associations in Data-Driven Applications with the FairTest Testing Toolkit]()
 - [Survey of Approaches for Discrimination Prevention in Data Mining
@@ -135,11 +137,16 @@ All the resources related to Fairness, Accountability &amp; Transparency in the 
 
 ## People (involved in research in this field):
 
+
 ## Datasets:
+Datasets that are provided below were finalized based on features, etc. that were intensive to FAT ML research.
 
 ## Code Repositories & Implementation details:
+These consist of a list of repositories that were tested out on a dev box 
+
 
 ## Miscellaneous resources:
+Links to related courses & articles.
 
 
 
