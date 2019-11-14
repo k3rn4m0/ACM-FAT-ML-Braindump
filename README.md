@@ -77,7 +77,7 @@ Below are a list of research papers that were finalized based on the number of c
 
 
 
-## People (involved in research in this field):
+## People (involved in research in ACM FAT):
 
 
 ## Datasets:
