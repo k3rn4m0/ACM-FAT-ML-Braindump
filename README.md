@@ -94,6 +94,7 @@ Links to related courses & articles.
 - ### Courses:
   - [A 70-minute course on evaluating fairness of Machine learning Algortihms](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture?_ga=2.101894599.-71412336.1571664970)
   - [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
+  - [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI](http://onlinehub.stanford.edu/youtube-cs224n-natural-language-processing-with-deep-learning-winter-2019/stanford-cs224n-nlp-with-deep-learning-winter-2019-lecture-19-bias-in-ai)
   
 - ### Articles:
   - [Millions of african-americans affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
