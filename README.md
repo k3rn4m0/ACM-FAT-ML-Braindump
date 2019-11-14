@@ -74,6 +74,7 @@ Below are a list of research papers that were finalized based on the number of c
 - [Blind Justice: Fairness with Encrypted Sensitive Attributes](https://arxiv.org/pdf/1806.03281.pdf)
 - [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://arxiv.org/pdf/1812.05239.pdf)
 - [Semantics derived automatically from language corpora contain human-like biases](https://www.cs.bath.ac.uk/~jjb/ftp/CaliskanEtAl-authors-full.pdf)
+- [On the (im)possibility of fairness](https://ia802809.us.archive.org/2/items/arxiv-1609.07236/1609.07236.pdf)
 
 
 
