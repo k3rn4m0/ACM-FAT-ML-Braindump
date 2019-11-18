@@ -100,7 +100,7 @@ Links to related courses & articles.
   - [Millions of african-americans affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
   - []()
   
-- ### Books
+- ### Reference Books
   - [Fairness and machine learning](https://fairmlbook.org/)
 
 
