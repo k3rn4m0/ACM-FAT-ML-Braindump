@@ -96,11 +96,13 @@ Links to related courses & articles.
   - [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
   - [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI](http://onlinehub.stanford.edu/youtube-cs224n-natural-language-processing-with-deep-learning-winter-2019/stanford-cs224n-nlp-with-deep-learning-winter-2019-lecture-19-bias-in-ai)
   
+  
 - ### Articles:
   - [Millions of african-americans affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
   - []()
   
-- ### Reference Books
+- ### References
   - [Fairness and machine learning](https://fairmlbook.org/)
+  - [AI Fairness 360 Open Source Toolkit](http://aif360.mybluemix.net/)
 
 
