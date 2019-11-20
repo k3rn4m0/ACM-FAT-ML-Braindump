@@ -105,7 +105,7 @@ Links to related courses & articles.
   - [AI Fairness 360 Open Source Toolkit](http://aif360.mybluemix.net/)
 
 - ### Videos & Podcasts
-  - [Michael Kearns: Algorithmic Fairness, Privacy, and Ethics in Machine Learning | AI Podcast](Michael Kearns: Algorithmic Fairness, Privacy, and Ethics in Machine Learning | AI Podcast)
+  - [Michael Kearns: Algorithmic Fairness, Privacy, and Ethics in Machine Learning | AI Podcast](https://www.youtube.com/watch?v=AzdxbzHtjgs)
   - [Keynote by Kilian Weinberger: On Calibration and Fairness](https://www.facebook.com/icml.imls/videos/474831503062000/)
   
 
