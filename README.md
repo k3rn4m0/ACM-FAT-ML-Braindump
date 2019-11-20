@@ -99,10 +99,14 @@ Links to related courses & articles.
   
 - ### Articles:
   - [Millions of african-americans affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
-  - []()
   
 - ### References
   - [Fairness and machine learning](https://fairmlbook.org/)
   - [AI Fairness 360 Open Source Toolkit](http://aif360.mybluemix.net/)
+
+- ### Videos & Podcasts
+  - [Michael Kearns: Algorithmic Fairness, Privacy, and Ethics in Machine Learning | AI Podcast](Michael Kearns: Algorithmic Fairness, Privacy, and Ethics in Machine Learning | AI Podcast)
+  - [Keynote by Kilian Weinberger: On Calibration and Fairness](https://www.facebook.com/icml.imls/videos/474831503062000/)
+  
 
 
