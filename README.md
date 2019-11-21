@@ -82,10 +82,10 @@ Below are a list of research papers that were finalized based on the number of c
 
 
 ## Datasets:
+
 Datasets that are provided below were finalized based on features, etc. that were intensive to FAT ML research.
 
-## Code Repositories & Implementation details:
-These consist of a list of repositories that were tested out on a dev box 
+- [Suicide deaths by Age group, race/ethinicity, country of residence, region & Gender](https://data.world/healthdatany/j6fz-a4ta/workspace/file?filename=vital-statistics-suicide-deaths-by-age-group-race-ethnicity-resident-county-region-and-gender-beginn-1.csv)
 
 
 ## Miscellaneous resources:
