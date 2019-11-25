@@ -58,7 +58,7 @@ Below are a list of research papers that were finalized based on the number of c
 - [Avoiding Discrimination through Causal Reasoning](https://pdfs.semanticscholar.org/a98e/3c4ec25d950122b8e2762d07df4db2f97201.pdf)
 - [Fairness-aware learning through regularization approach](http://www.kamishima.net/archive/2011-ws-icdm_padm.pdf)
 - [On Fairness and Calibration](https://papers.nips.cc/paper/7151-on-fairness-and-calibration.pdf)
-- [A Confidence-Based Approach for Balancing Fairness and Accuracy](https://ourcommunitynow.com/lifestyle/holiday-shopping-guide-9-best-board-games-for-adults)
+- [A Confidence-Based Approach for Balancing Fairness and Accuracy](https://arxiv.org/pdf/1601.05764.pdf)
 - [Learning Fair Classifiers: A Regularization-Inspired Approach](https://scinapse.io/papers/2732098159)
 - [Fair and Unbiased Algorithmic Decision Making: Current State and Future Challenges ](https://arxiv.org/ftp/arxiv/papers/1901/1901.04730.pdf)
 - [Fairness and Abstraction in Sociotechnical Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913)
